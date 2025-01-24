@@ -1,1 +1,1 @@
-This script converts excel timetable files into `.ics` files.
+This script converts UBC excel timetable files into `.ics` files.
